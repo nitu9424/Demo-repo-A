@@ -1,0 +1,358 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"in",
+				"initial"
+			],
+			[
+				"o",
+				"opacity"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 29836,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "demo.html",
+			"settings":
+			{
+				"buffer_size": 20792,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/default.css",
+			"settings":
+			{
+				"buffer_size": 19193,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/layout.css",
+			"settings":
+			{
+				"buffer_size": 21868,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/JAN_2017/WEB_DEN/Projects/HTML/iamnitu/myportfolio",
+		"/E/JAN_2017/WEB_DEN/Projects/HTML/iamnitu/myportfolio/css"
+	],
+	"file_history":
+	[
+		"/E/JAN_2017/WEB_DEN/Projects/HTML/Jovaphile Free Website Template from OS Templates/jovaphile/index.html",
+		"/E/JAN_2017/WEB_DEN/Projects/HTML/Jovaphile Free Website Template from OS Templates/jovaphile/pages/basic-grid.html",
+		"/E/JAN_2017/WEB_DEN/Projects/HTML/Jovaphile Free Website Template from OS Templates/jovaphile/pages/full-width.html",
+		"/E/JAN_2017/WEB_DEN/Projects/HTML/Jovaphile Free Website Template from OS Templates/jovaphile/pages/gallery.html",
+		"/E/JAN_2017/WEB_DEN/Projects/HTML/Jovaphile Free Website Template from OS Templates/jovaphile/layout/styles/framework.css",
+		"/E/JAN_2017/WEB_DEN/Projects/HTML/Jovaphile Free Website Template from OS Templates/jovaphile/layout/styles/layout.css",
+		"/E/JAN_2017/WEB_DEN/Projects/HTML/Jovaphile Free Website Template from OS Templates/jovaphile/pages/sidebar-right.html",
+		"/E/JAN_2017/WEB_DEN/Projects/HTML/Jovaphile Free Website Template from OS Templates/jovaphile/pages/sidebar-left.html",
+		"/E/JAN_2017/WEB_DEN/Projects/HTML/Jovaphile Free Website Template from OS Templates/jovaphile/EDUMATT_Project.sublime-project"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pexels-photo-290470",
+			"pexels-bg",
+			"header .banner-text h3 {\n   font: 18px/1.9em 'librebaskerville-regular', serif;\n   color: #FFF;\n   margin: 0 auto;\n   width: 70%;\n   text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);\n}",
+			"header-background",
+			"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,\n                  eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam\n                  voluptatem quia voluptas sit aspernatur aut odit aut fugit.\n                  ",
+			"Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit. ",
+			"images/portfolio/modals/coffee.jpg",
+			"images/portfolio/coffee.jpg",
+			"jovaphile",
+			"section",
+			"\">\n",
+			"Lectus",
+			"Tincidunt",
+			"International",
+			"Services",
+			"Student"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								22083,
+								22083
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 10848.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "demo.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 20792,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								666,
+								666
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/default.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3534,
+								3534
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2770.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "css/layout.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21868,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								695,
+								695
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "my-portfolio-page.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 190.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

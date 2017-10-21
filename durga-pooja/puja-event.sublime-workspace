@@ -23,6 +23,14 @@
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "tipos.txt",
+			"settings":
+			{
+				"buffer_size": 4495,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "",
@@ -81,7 +89,7 @@
 	],
 	"find":
 	{
-		"height": 28.0
+		"height": 43.0
 	},
 	"find_in_files":
 	{
@@ -145,8 +153,8 @@
 						"selection":
 						[
 							[
-								18210,
-								18210
+								10591,
+								10704
 							]
 						],
 						"settings":
@@ -154,10 +162,38 @@
 							"syntax": "Packages/HTML/HTML.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 9260.0,
+						"translation.y": 6690.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "tipos.txt",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 4495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								642,
+								642
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -165,7 +201,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 30.0
 	},
 	"input":
 	{
@@ -202,7 +238,7 @@
 	"project": "puja-event.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 56.0
 	},
 	"save_all_on_build": true,
 	"select_file":
